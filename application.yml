@@ -1,0 +1,7 @@
+config:
+  name: Spring cloud configurations
+  description: Spring cloud configuration successfully implemented
+db:
+  connection-string: connection string
+  host: 127.0.0.1
+  port: 4500

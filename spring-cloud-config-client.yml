@@ -1,6 +1,6 @@
 config:
-  name: Spring cloud configurations Based on application
-  description: Spring cloud configuration successfully implemented based on application
+  name: Spring cloud latest configurations Based on application
+  description: Spring cloud latest configuration successfully implemented based on application
 db:
   connection-string: connection string
   host: 127.0.0.1
